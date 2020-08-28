@@ -49,15 +49,14 @@
 
 .logo {
     height: 80px;
-    width: 200px;
+    width: 45%;
 }
 
 .logo img {
     position: fixed;
-    top: -38px;
-    left: 0;
+    left: 62px;
     width: 300px;
-    height: 158px;
+    height: 79px;
 }
 
 .banner {
